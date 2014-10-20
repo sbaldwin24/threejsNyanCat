@@ -27,4 +27,4 @@ THREEx.NyanCatSound	= function() {
 	}.bind(this);
 };
 
-THREEx.NyanCatSound.baseUrl	= "../";
+THREEx.NyanCatSound.baseUrl	= "";
